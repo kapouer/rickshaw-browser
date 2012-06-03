@@ -1,0 +1,25 @@
+{
+  "name": "rickshaw-browser",
+  "version": "0.0.0git28bdb736-1",
+  "description": "rickshaw npm package for browsers",
+  "keywords": [
+    "interactive",
+    "graph",
+    "series",
+    "time"
+  ],
+  "homepage": "http://code.shutterstock.com/rickshaw/",
+  "author": {
+    "name": "Shutterstock",
+    "url": "http://code.shutterstock.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kapouer/rickshaw-browser.git"
+  },
+  "main": "./index.js",
+  "directories": {
+    "javascripts": "./js",
+    "stylesheets": "./css"
+  }
+}
