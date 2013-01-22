@@ -1,6 +1,6 @@
 {
   "name": "rickshaw-browser",
-  "version": "0.0.0git28bdb736-2",
+  "version": "1.2.0-1",
   "description": "rickshaw npm package for browsers",
   "keywords": [
     "interactive",
@@ -23,6 +23,6 @@
     "stylesheets": "./css"
   },
   "dependencies": {
-    "d3-browser": ">=2.9.2-1"
+    "d3-browser": "2.10.x"
   }
 }
