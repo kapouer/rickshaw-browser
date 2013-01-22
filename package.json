@@ -1,6 +1,6 @@
 {
   "name": "rickshaw-browser",
-  "version": "1.2.0-1",
+  "version": "1.2.0-2",
   "description": "rickshaw npm package for browsers",
   "keywords": [
     "interactive",
@@ -17,6 +17,12 @@
     "type": "git",
     "url": "http://github.com/kapouer/rickshaw-browser.git"
   },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/shutterstock/rickshaw/master/LICENSE"
+    }
+  ],
   "main": "./index.js",
   "directories": {
     "javascripts": "./js",
